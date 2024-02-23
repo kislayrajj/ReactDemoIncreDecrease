@@ -21,7 +21,7 @@ function App() {
   };
   return (
     <>
-      <div className="main_div ">
+      <div className="main_div">
         <div className="center_div">
           <h1> {num}</h1>
           <div className="btn_div">
